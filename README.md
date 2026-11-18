@@ -18,6 +18,8 @@ Project Highlights
 - Built a Power BI dashboard with five headline KPI cards and interactive slicers.
 - Documented data preparation, KPI definitions, DAX recommendations, and business findings.
 Dashboard Preview
+<img width="1010" height="571" alt="image" src="https://github.com/user-attachments/assets/2a934e2a-5ecb-4585-9578-69486b9203a9" />
+
 
 
 The Power BI report includes these KPI cards:
